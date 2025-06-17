@@ -10,7 +10,7 @@ You have the control
 
 ## Installation
 ### Automatic
-1. Download from chrome web store!
+1. Download from chrome web store! [TODO]
 ### Manual
 1. Download the repository as zip and unzip the zip file.
 2. Open Chrome and navigate to chrome://extensions/.
